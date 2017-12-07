@@ -1,0 +1,8 @@
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\bin\Debug\ShuffleConsoleApp.exe.config
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\bin\Debug\ShuffleConsoleApp.exe
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\bin\Debug\ShuffleConsoleApp.pdb
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\bin\Debug\ShuffleCore.dll
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\bin\Debug\ShuffleCore.pdb
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\obj\Debug\ShuffleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\obj\Debug\ShuffleConsoleApp.exe
+C:\Work\Shuffler\ShuffleCore\ShuffleConsoleApp\obj\Debug\ShuffleConsoleApp.pdb

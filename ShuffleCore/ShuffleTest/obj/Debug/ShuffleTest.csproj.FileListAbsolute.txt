@@ -1,0 +1,11 @@
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\ShuffleTest.dll
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\ShuffleTest.pdb
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\nunit.framework.dll
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\ShuffleConsoleApp.exe
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\ShuffleCore.dll
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\ShuffleConsoleApp.pdb
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\ShuffleCore.pdb
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\bin\Debug\nunit.framework.xml
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\obj\Debug\ShuffleTest.csprojResolveAssemblyReference.cache
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\obj\Debug\ShuffleTest.dll
+C:\Work\Shuffler\ShuffleCore\ShuffleTest\obj\Debug\ShuffleTest.pdb
